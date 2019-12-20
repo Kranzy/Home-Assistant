@@ -1,0 +1,8 @@
+---
+# The shelly component is to integrate Shelly https://shelly.cloud devices into home assistant.
+# This uses the custom component loaded through hacs
+#
+# https://github.com/StyraHem/ShellyForHASS
+#
+shelly::
+
