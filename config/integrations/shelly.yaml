@@ -4,5 +4,5 @@
 #
 # https://github.com/StyraHem/ShellyForHASS
 #
-shelly::
+shelly: !include_dir_list ../entities/shelly
 

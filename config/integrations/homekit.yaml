@@ -5,11 +5,6 @@
 # https://www.home-assistant.io/components/homekit
 #
 homekit:
-  # Stop the HomeKit Server from starting automatically after the Home Assistant
-  # Core Setup is done. I have a Z-Wave network, which we need to wait for
-  # as well.
-  auto_start: false
-
   # The default: "Home Assistant Bridge", I like it to be just "Home Assistant"
   name: Home Assistant
 
@@ -19,16 +14,3 @@ homekit:
 
   # Filters for entities to be included / excluded from HomeKit.
   filter:
-    include_entities:
-      - climate.living_room
-      - light.living_room_bar
-      # - climate.bedroom_master_thermostat
-      # - light.bedroom_master_bedside
-      # - light.bedroom_master_ceiling
-      # - light.kitchen_ceiling
-      # - light.kitchen_cupboard
-      # - light.livingroom_computer_corner
-      # - light.livingroom_desk
-      # - light.livingroom_spotlight
-      # - light.livingroom_tv
-      # - light.livingroom_window
