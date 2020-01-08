@@ -13,6 +13,7 @@ host: !secret unifi_host
 
 # Since this is an internal connection, the SSL connection won't verify.
 # So lets ignore the fact that the cert is invalid for the above host.
+# I do resolve domains locally so could use verified ssl however host will only take an ip address - need to confirm.
 verify_ssl: false
 
 # Authentication credentials
