@@ -1,13 +1,9 @@
 ---
-# I have 2 UniFi AP's in my home:
-#   - Centrally placed on the ground floor, having awesome coverage downstairs.
-#   - Second is place on the stairway between the first floor and the attic,
-#     giving me plenty of signal upstairs.
+# I currently have 1 UniFi AP's in my home:
+#   - Located in the hallway.
 #
-# I have a UniFi controller running 24/7 inside Hass.io,
-# using the Community Hass.io add-on.
-#
-# https://github.com/hassio-addons/addon-unifi
+# I have a UniFi controller running 24/7 in a docker container.
+
 # https://www.home-assistant.io/components/device_tracker.unifi/
 #
 platform: unifi
