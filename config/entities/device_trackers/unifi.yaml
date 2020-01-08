@@ -13,7 +13,7 @@
 platform: unifi
 
 # This is the Hass.io add-on slug, allowing a direct connection to the addon.
-host: a0d7b954-unifi
+host: 10.1.1.2
 
 # Since this is an internal connection, the SSL connection won't verify.
 # So lets ignore the fact that the cert is invalid for the above host.
