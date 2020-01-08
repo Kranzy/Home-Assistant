@@ -12,7 +12,7 @@
 #
 platform: unifi
 
-# This is the Hass.io add-on slug, allowing a direct connection to the addon.
+# This is the Unifi Controller IP Address.
 host: !secret unifi_host
 
 # Since this is an internal connection, the SSL connection won't verify.
