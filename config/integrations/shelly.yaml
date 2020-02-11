@@ -4,5 +4,7 @@
 #
 # https://github.com/StyraHem/ShellyForHASS
 #
-shelly: !include_dir_list ../entities/shelly
+shelly:
+  discovery: true  #add all devices (default)
+  devices: !include_dir_list ../entities/shelly
 
