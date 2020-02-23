@@ -11,6 +11,7 @@ __pycache__
 config/.cloud
 config/.storage
 config/deps
+config/custom_components
 
 # Specific file ignores
 config/.config_entries.json

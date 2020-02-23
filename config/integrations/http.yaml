@@ -6,7 +6,7 @@
 #
 http:
   # Contains the URL that Home Assistant is available on the internet.
-  base_url: !secret http_base_url
+  #base_url: !secret http_base_url
 
   # Lets Home Assistant only listen on a specific IP/host.
   # THIS SHOULD NOT BE USED ON HASS.IO!
@@ -14,7 +14,7 @@ http:
   # server_host: !secret http_server_host
 
   # Sets a port number to use for Home Assistant to use (default 8123).
-  server_port: !secret http_server_port
+  #server_port: !secret http_server_port
 
   # Home Assistant does not use SSL, I use a reverse proxy to handle that.
   # The advantage of this method is that this allows me to access HA

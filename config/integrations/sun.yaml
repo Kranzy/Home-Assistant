@@ -6,4 +6,4 @@
 #
 sun:
   # The (physical) elevation of your location, in meters above sea level.
-  elevation: !secret zone_home_elevation
+#  elevation: !secret zone_home_elevation
