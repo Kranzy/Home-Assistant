@@ -1,0 +1,19 @@
+---
+#MQTT to control and know the state of the front garage door.
+
+platform: mqtt
+name: "Garage Door"
+command_topic: !secret garage_command_topic
+state_topic: !secret garage_state_topic
+#availability_topic: !secret garage_availability_topic
+qos: 0
+retain: false
+payload_open: "OPEN"
+payload_close: "CLOSE"
+payload_stop: "STOP"
+state_open: "open"
+state_closed: "closed"
+#payload_available: "online"
+#payload_not_available: "offline"
+optimistic: false
+device_class: garage
