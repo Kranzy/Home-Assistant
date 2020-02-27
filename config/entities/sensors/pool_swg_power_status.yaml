@@ -1,0 +1,6 @@
+---
+#SWG Power Status from Aquapured
+
+platform: mqtt
+name: "SWG Power Status"
+state_topic: !secret swg_power_state_topic

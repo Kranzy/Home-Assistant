@@ -8,3 +8,4 @@ chlorinator_value:
     max: 101
     step: 10
     unit_of_measurement: '%'
+    icon: mdi:water-percent

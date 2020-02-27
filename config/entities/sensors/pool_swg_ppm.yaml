@@ -1,0 +1,7 @@
+---
+#SWG PPM Value from Aquapured
+
+platform: mqtt
+name: "Salt PPM"
+state_topic: !secret swg_ppm_state_topic
+unit_of_measurement: 'PPM'

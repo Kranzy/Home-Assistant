@@ -1,0 +1,15 @@
+---
+#UPS Information
+
+platform: nut
+name: Server UPS
+host: !secret NUT_host
+username: !secret NUT_username
+password: !secret NUT_password
+resources:
+  - ups.load
+  - ups.status.display
+  - battery.charge
+  - battery.runtime
+  - ups.model
+  - input.voltage

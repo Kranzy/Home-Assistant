@@ -1,0 +1,8 @@
+---
+#Group the Pool & Retaining Wall lights
+
+#platform: group
+#name: Outside Lights
+#entities:
+#  - light.shelly_shrgbw2_661a7b
+#  - light.shelly_shrgbw2_661d7d
