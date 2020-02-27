@@ -1,0 +1,12 @@
+---
+#The systemmonitor sensor platform allows you to monitor disk usage, 
+#memory usage, CPU usage, and running processes. 
+
+#Sensor Monitor For NUC Server
+
+platform: systemmonitor
+resources:
+  - type: disk_use_percent
+    arg: /
+  - type: memory_use_percent
+  - type: processor_use
