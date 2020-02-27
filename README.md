@@ -7,6 +7,8 @@ I will be using Franck's config as inspiration to be more organised as my smart 
 
 I typically use Node-Red for my automations.
 
+The development branch is to be used to test configs before merging with the master which is to be seen as the production version.
+
 Name convention for files.
     If an entity folder can hold files for multiple types or locations then use the following:
         type_location_description
@@ -15,3 +17,5 @@ Name convention for files.
     for all others use:
         location_description
     If description requires multiple words then separate with '_' & lower case should be used.
+    
+  
