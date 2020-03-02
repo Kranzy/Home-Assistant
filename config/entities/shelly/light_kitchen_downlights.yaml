@@ -1,6 +1,6 @@
 ---
-#Kitchen Dimmer
-
+# Kitchen Dimmer
+#
 id: "F3AB2F"
 name: Kitchen Downlights
 entity_id: Kitchen_Downlight

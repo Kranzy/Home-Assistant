@@ -1,6 +1,6 @@
 ---
 # Pool timer 1 
-
+#
 pool_timer_1:
   name: Pool Timer 1
   icon: mdi:clock

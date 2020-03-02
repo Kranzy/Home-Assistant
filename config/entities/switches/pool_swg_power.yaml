@@ -1,6 +1,6 @@
 ---
 # Switch to turn on/off Chlorinator
-
+#
 platform: mqtt
 name: "SWG"
 state_topic: !secret swg_power_state_topic

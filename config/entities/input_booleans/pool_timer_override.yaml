@@ -1,6 +1,6 @@
 ---
 # Pool timer override. Temporarily suspend timer 1 & 2 schedule when on.
-
+#
 pool_timer_override:
   name: Pool Timer Override
   icon: mdi:clock-alert-outline

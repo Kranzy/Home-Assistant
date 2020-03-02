@@ -1,6 +1,6 @@
 ---
-#Hallway Dimmer
-
+# Hallway Dimmer
+#
 id: "F368A2"
 name: Hallway Downlights
 entity_id: Hallway_Downlight

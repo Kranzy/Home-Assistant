@@ -1,6 +1,6 @@
 ---
-#MQTT to control and know the state of the front garage door.
-
+# MQTT to control and know the state of the front garage door.
+#
 platform: mqtt
 name: "Garage Door"
 command_topic: !secret garage_command_topic

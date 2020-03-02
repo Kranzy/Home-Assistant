@@ -1,6 +1,6 @@
 ---
-#SWG Set Status based on results from full status & Power Status
-
+# SWG Set Status based on results from full status & Power Status
+#
 platform: template
 sensors:
   swg_status_values:

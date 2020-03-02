@@ -1,0 +1,7 @@
+---
+# Side Gate Light
+#
+id: "93EFAC"
+name: Side Gate Light
+light_switch: true
+entity_id: Side_Gate_Light

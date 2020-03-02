@@ -1,6 +1,6 @@
 ---
-#UPS Information
-
+# UPS Information
+#
 platform: nut
 name: Server UPS
 host: !secret NUT_host

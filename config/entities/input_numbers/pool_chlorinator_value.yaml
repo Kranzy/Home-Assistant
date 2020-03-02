@@ -1,6 +1,6 @@
 ---
-#Slider to set Chlorinator %
-
+# Slider to set Chlorinator %
+#
 chlorinator_value:
     name: Chlorinator %
     #initial: 60

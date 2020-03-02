@@ -1,0 +1,6 @@
+---
+# Pool Light - RGBW2
+#
+id: "661D7D"
+name: Pool Light
+entity_id: Pool_Light

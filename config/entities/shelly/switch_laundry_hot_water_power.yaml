@@ -1,0 +1,6 @@
+---
+# Isolation switch for hot water unit
+#
+id: "766153"
+name: Hot Water Unit
+entity_id: Hot_Water_Unit
