@@ -7,4 +7,3 @@
 shelly:
   discovery: false  #add all devices (default)
   devices: !include_dir_list ../entities/shelly
-

@@ -4,7 +4,6 @@
 #
 # https://www.home-assistant.io/docs/mqtt/broker
 #
-
 mqtt:
   broker: !secret mqtt_host
   port: !secret mqtt_port
