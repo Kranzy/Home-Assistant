@@ -1,0 +1,6 @@
+---
+# Outdoor light schedule to use for automations. Switch is for display only
+#
+outside_light_schedule:
+    name: Outside Lights Schedule
+    icon: mdi:jabber

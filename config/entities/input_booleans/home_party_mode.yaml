@@ -1,0 +1,6 @@
+---
+# Party Mode switch to use for automations
+#
+party_mode:
+    name: Party Mode
+    icon: mdi:itunes
