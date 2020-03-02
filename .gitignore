@@ -23,6 +23,7 @@ config/ip_bans.yaml
 config/known_devices.yaml
 config/options.xml
 config/secrets.yaml
+config/harmony_lounge_room.conf
 
 # Ignore files created by IDE's
 .vscode
