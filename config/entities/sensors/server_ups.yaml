@@ -11,5 +11,4 @@ resources:
   - ups.status.display
   - battery.charge
   - battery.runtime
-  - ups.model
   - input.voltage
