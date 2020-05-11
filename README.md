@@ -18,4 +18,4 @@ Name convention for files.
         location_description
     If description requires multiple words then separate with '_' & lower case should be used.
     
-  
+With Home Assistant making further changes towards the .storage folder some of the configuration entries in this repository might change in favour of moving to the .storage method.
