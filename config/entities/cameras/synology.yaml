@@ -1,0 +1,6 @@
+platform: synology
+url: !secret synology_cam_url
+username: !secret synology_cam_username
+password: !secret synology_cam_password
+timeout: 20
+verify_ssl: False
