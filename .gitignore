@@ -24,6 +24,7 @@ config/known_devices.yaml
 config/options.xml
 config/secrets.yaml
 config/harmony_lounge_room.conf
+config/harmony_11834119.conf
 
 # Ignore files created by IDE's
 .vscode
