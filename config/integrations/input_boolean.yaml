@@ -6,4 +6,7 @@
 #
 # https://www.home-assistant.io/components/input_boolean/
 #
-input_boolean: !include_dir_merge_named ../entities/input_booleans
+# I don't store my input boolean entities in my YAML configuration,
+# instead I manage them via the Home Assistant frontend.
+#
+input_boolean: ~

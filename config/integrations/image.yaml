@@ -1,0 +1,9 @@
+---
+# The Image integration allows Home Assistant to handle image assets 
+#in Home Assistant, for example, the profile photos of your systems account.
+#
+# https://www.home-assistant.io/integrations/image/
+#
+# Using Home Assistant frontend to manage images.
+#
+image: ~

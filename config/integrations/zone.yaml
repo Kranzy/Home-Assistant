@@ -1,6 +1,17 @@
----
+#---
 # Zones allow you to specify certain regions on earth (for now).
 #
 # https://www.home-assistant.io/components/zone/
 #
-zone: !include_dir_list ../entities/zones
+#zone: !include_dir_list ../entities/zones
+---
+  # Zones allow you to specify certain regions on earth (for now).
+  #
+  # https://www.home-assistant.io/integrations/zone/
+  #
+  # I don't store my zones in my YAML configuration,
+  # instead I manage them via the Home Assistant frontend.
+  #
+  # Reasoning: Removes the need for me to juggle secrets.
+  #
+  zone: ~
