@@ -11,6 +11,7 @@
                     "icon_normal": "Icone (mdi:trash-can)",
                     "icon_tomorrow": "Icone pour collecte à jour J+1 (mdi:delete-restore)",
                     "icon_today": "Icone pour collecte au jour J (mdi:delete-circle)",
+                    "offset": "offset (entre -31 et 31 jours)",
                     "expire_after": "Expire après (HH:MM)",
                     "verbose_state": "Etat verbeux (texte, au lieu du chiffre)",
                     "verbose_format": "Format état verbeux (utilisation des variables `date` et `days` (entre caractères accolade ))",
@@ -61,6 +62,8 @@
                     "include_dates": "Inclusion de dates (yyyy-mm-dd, yyyy-mm-dd, ...) - optionel",
                     "exclude_dates": "Exclusion de dates (yyyy-mm-dd, yyyy-mm-dd, ...) - optionel",
                     "move_country_holidays": "Move holidays to next day (optional)",
+                    "holiday_move_offset": "Move holidays by # of days(-7..7)",
+                    "holiday_pop_named": "Ignore holidays (list) - optional",
                     "holiday_in_week_move": "Move to next day if holiday in week (optional)"
                 }
             }
@@ -93,6 +96,7 @@
                     "icon_normal": "Icone (mdi:trash-can)",
                     "icon_tomorrow": "Icone pour collecte à jour J+1 (mdi:delete-restore)",
                     "icon_today": "Icone pour collecte au jour J (mdi:delete-circle)",
+                    "offset": "offset (entre -31 et 31 jours)",
                     "expire_after": "Expire après (HH:MM)",
                     "verbose_state": "Etat verbeux (texte, au lieu du chiffre)",
                     "verbose_format": "Format état verbeux (utilisation des variables `date` et `days` (entre caractères accolade ))",
@@ -143,6 +147,8 @@
                     "include_dates": "Inclusion de dates (yyyy-mm-dd, yyyy-mm-dd, ...) - optionel",
                     "exclude_dates": "Exclusion de dates (yyyy-mm-dd, yyyy-mm-dd, ...) - optionel",
                     "move_country_holidays": "Move holidays to next day (optional)",
+                    "holiday_move_offset": "Move holidays by # of days(-7..7)",
+                    "holiday_pop_named": "Ignore holidays (list) - optional",
                     "holiday_in_week_move": "Move to next day if holiday in week (optional)"
                 }
             }

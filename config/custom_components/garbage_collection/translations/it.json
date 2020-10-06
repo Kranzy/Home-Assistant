@@ -11,6 +11,7 @@
                     "icon_normal": "Icona (mdi:trash-can)",
                     "icon_tomorrow": "Icona raccolta domani (mdi:delete-restore)",
                     "icon_today": "Icona raccolta oggi (mdi:delete-circle)",
+                    "offset": "offset (tra -31 e 31 giorni)",
                     "expire_after": "Scade dopo (HH:MM) - opzionale",
                     "verbose_state": "Stato Verbale (testo, al posto di numeri)",
                     "verbose_format": "Formato Verbale (usare le variabili `date` e `days` (in parentesi graffe))",
@@ -61,6 +62,8 @@
                     "include_dates": "Includi date (yyyy-mm-dd, yyyy-mm-dd, ...) - opzionale",
                     "exclude_dates": "Escludi date (yyyy-mm-dd, yyyy-mm-dd, ...) - opzionale",
                     "move_country_holidays": "Move holidays to next day (optional)",
+                    "holiday_move_offset": "Move holidays by # of days(-7..7)",
+                    "holiday_pop_named": "Ignore holidays (list) - optional",
                     "holiday_in_week_move": "Move to next day if holiday in week (optional)"
                 }
             }
@@ -93,6 +96,7 @@
                     "icon_normal": "Icona (mdi:trash-can)",
                     "icon_tomorrow": "Icona raccolta domani (mdi:delete-restore)",
                     "icon_today": "Icona raccolta oggi (mdi:delete-circle)",
+                    "offset": "offset (tra -31 e 31 giorni)",
                     "expire_after": "Scade dopo (HH:MM) - opzionale",
                     "verbose_state": "Stato Verbale (testo, al posto di numeri)",
                     "verbose_format": "Formato Verbale (usare le variabili `date` e `days` (in parentesi graffe))",
@@ -143,6 +147,8 @@
                     "include_dates": "Includi date (yyyy-mm-dd, yyyy-mm-dd, ...) - opzionale",
                     "exclude_dates": "Escludi date (yyyy-mm-dd, yyyy-mm-dd, ...) - opzionale",
                     "move_country_holidays": "Move holidays to next day (optional)",
+                    "holiday_move_offset": "Move holidays by # of days(-7..7)",
+                    "holiday_pop_named": "Ignore holidays (list) - optional",
                     "holiday_in_week_move": "Move to next day if holiday in week (optional)"
                 }
             }
