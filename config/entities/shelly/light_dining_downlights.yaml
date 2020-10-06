@@ -1,0 +1,6 @@
+---
+# Dining Dimmer - Shelly Dimmer
+#
+id: "F363A3"
+name: Dining Downlights
+entity_id: Dining_Downlight

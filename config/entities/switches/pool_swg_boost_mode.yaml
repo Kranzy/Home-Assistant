@@ -1,0 +1,12 @@
+---
+# Switch to turn on/off Chlorinator Boost Mode
+#
+platform: mqtt
+name: "SWG Boost"
+state_topic: !secret swg_boost_state_topic
+command_topic: !secret swg_boost_command_topic
+payload_on: "1"
+payload_off: "0"
+state_on: "1"
+state_off: "0"
+icon: mdi:water

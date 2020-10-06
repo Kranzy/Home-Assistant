@@ -1,0 +1,11 @@
+---
+# The MQTT integration needs you to run an MQTT
+# broker for Home Assistant to connect to.
+#
+# https://www.home-assistant.io/docs/mqtt/broker
+#
+mqtt:
+  broker: !secret mqtt_host
+  port: !secret mqtt_port
+  username: !secret mqtt_username
+  password: !secret mqtt_password

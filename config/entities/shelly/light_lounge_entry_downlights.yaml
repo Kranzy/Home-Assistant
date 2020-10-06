@@ -1,0 +1,6 @@
+---
+# Lounge Wall Dimmer and Entry - Shelly Dimmer
+#
+id: "F319B6"
+name: Lounge & Entry Downlights
+entity_id: Lounge_Entry_Downlight

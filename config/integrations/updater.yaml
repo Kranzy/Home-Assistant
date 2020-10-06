@@ -10,4 +10,4 @@
 # For more information, please see:
 # https://home-assistant.io/blog/2016/10/25/explaining-the-updater/
 #
-updater:
+updater: ~

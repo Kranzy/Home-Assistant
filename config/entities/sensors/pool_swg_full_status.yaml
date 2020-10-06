@@ -1,0 +1,6 @@
+---
+# SWG Full Status from Aquapured
+#
+platform: mqtt
+name: "SWG Status"
+state_topic: !secret swg_full_status_state_topic

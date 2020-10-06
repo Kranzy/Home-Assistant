@@ -1,0 +1,7 @@
+---
+# Front Porch Light - Shelly 1
+#
+id: "93B5FA"
+light_switch: true
+name: Porch Light
+entity_id: Porch_Light

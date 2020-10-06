@@ -1,0 +1,6 @@
+---
+# Lounge Dimmer - Downlights along front wall - Shelly Dimmer
+#
+id: "DB3C04"
+name: Lounge Downlights
+entity_id: Lounge_Downlight

@@ -4,6 +4,6 @@
 #
 # https://www.home-assistant.io/components/sun/
 #
-sun:
-  # The (physical) elevation of your location, in meters above sea level.
-  elevation: !secret zone_home_elevation
+sun: ~
+# The (physical) elevation of your location, in meters above sea level.
+#  elevation: !secret zone_home_elevation
