@@ -1,6 +1,0 @@
----
-# Pool timer 2 
-#
-pool_timer_2:
-  name: Pool Timer 2
-  icon: mdi:clock

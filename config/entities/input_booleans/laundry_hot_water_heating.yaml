@@ -1,6 +1,0 @@
----
-# Hot Water Unit Heating 
-#
-hot_water_heating:
-  name: Hot Water Unit Heating
-  icon: mdi:coolant-temperature

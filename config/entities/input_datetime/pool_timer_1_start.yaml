@@ -1,7 +1,0 @@
----
-# Pool Timer 1 Start Time
-#
-pool_timer_1_start:
-    name: Timer 1 Start
-    has_date: false
-    has_time: true
